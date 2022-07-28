@@ -1,2 +1,2 @@
 # teste
- Testes feitos para um vaga de estágio.
+ Testes feitos para uma vaga de estágio.
